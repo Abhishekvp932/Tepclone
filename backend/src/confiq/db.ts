@@ -2,7 +2,7 @@ import mongoose from "mongoose";
 
 const connectDB = async (): Promise<void> => {
   try {
-    const mongoURL = process.env.MONGO_URL?.trim();
+    const mongoURL = process.env.MONGO_URL;
 
     if (!mongoURL) {
       throw new Error("MONGO_URL is not set in the environment");
