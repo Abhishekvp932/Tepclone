@@ -1,0 +1,34 @@
+
+> frontend@0.1.0 dev
+> next dev
+
+▲ Next.js 16.2.4 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.220.36:3000
+✓ Ready in 41s
+
+ GET / 200 in 2.1s (next.js: 1131ms, application-code: 926ms)
+ GET / 200 in 227ms (next.js: 38ms, application-code: 189ms)
+ GET /api/auth/session 404 in 210ms (next.js: 97ms, application-code: 113ms)
+ POST /api/auth/_log 404 in 113ms (next.js: 11ms, application-code: 102ms)
+ GET / 200 in 205ms (next.js: 35ms, application-code: 170ms)
+ GET /api/auth/session 404 in 95ms (next.js: 7ms, application-code: 88ms)
+ POST /api/auth/_log 404 in 133ms (next.js: 14ms, application-code: 119ms)
+ GET /api/auth/session 404 in 131ms (next.js: 66ms, application-code: 64ms)
+ POST /api/auth/_log 404 in 56ms (next.js: 7ms, application-code: 49ms)
+ GET / 200 in 184ms (next.js: 29ms, application-code: 155ms)
+ GET /api/auth/session 404 in 95ms (next.js: 23ms, application-code: 72ms)
+ POST /api/auth/_log 404 in 58ms (next.js: 9ms, application-code: 50ms)
+ GET /admin 200 in 2.1s (next.js: 1903ms, application-code: 189ms)
+ GET /api/auth/session 404 in 88ms (next.js: 20ms, application-code: 68ms)
+ POST /api/auth/_log 404 in 57ms (next.js: 12ms, application-code: 45ms)
+ GET /admin/login 200 in 541ms (next.js: 507ms, application-code: 34ms)
+ GET /admin 200 in 96ms (next.js: 67ms, application-code: 29ms)
+ GET / 200 in 129ms (next.js: 8ms, application-code: 121ms)
+ GET /api/auth/session 404 in 70ms (next.js: 8ms, application-code: 62ms)
+ POST /api/auth/_log 404 in 110ms (next.js: 22ms, application-code: 88ms)
+ GET /api/auth/session 404 in 48ms (next.js: 4ms, application-code: 44ms)
+ POST /api/auth/_log 404 in 57ms (next.js: 9ms, application-code: 49ms)
+ GET /admin/login 200 in 442ms (next.js: 164ms, application-code: 278ms)
+ GET /admin 200 in 208ms (next.js: 65ms, application-code: 143ms)
+ GET / 200 in 528ms (next.js: 158ms, application-code: 369ms)

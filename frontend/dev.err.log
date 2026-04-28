@@ -1,0 +1,195 @@
+[browser] [next-auth][error][CLIENT_FETCH_ERROR] 
+https://next-auth.js.org/errors#client_fetch_error Unexpected token '<', "<!DOCTYPE "... is not valid JSON {
+  error: {
+    message: [32m`Unexpected token '<', "<!DOCTYPE "... is not valid JSON`[39m,
+    name: [32m'SyntaxError'[39m,
+    stack: [32m`SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON`[39m
+  },
+  message: [32m`Unexpected token '<', "<!DOCTYPE "... is not valid JSON`[39m,
+  url: [32m'/api/auth/session'[39m
+} 
+    at new Promise (<anonymous>) (<anonymous>)
+[browser] A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html lang="en" className="scroll-smooth">
+                          <head>
+                          <body
+                            className="bg-dark text-white antialiased"
+                            style={{fontFamily:"'Inter', s..."}}
+-                           cz-shortcut-listen="true"
+                          >
+                  ...
+ 
+[browser] [next-auth][error][CLIENT_FETCH_ERROR] 
+https://next-auth.js.org/errors#client_fetch_error Unexpected token '<', "<!DOCTYPE "... is not valid JSON {
+  error: {
+    message: [32m`Unexpected token '<', "<!DOCTYPE "... is not valid JSON`[39m,
+    name: [32m'SyntaxError'[39m,
+    stack: [32m`SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON`[39m
+  },
+  message: [32m`Unexpected token '<', "<!DOCTYPE "... is not valid JSON`[39m,
+  url: [32m'/api/auth/session'[39m
+} 
+    at new Promise (<anonymous>) (<anonymous>)
+[browser] [next-auth][error][CLIENT_FETCH_ERROR] 
+https://next-auth.js.org/errors#client_fetch_error Unexpected token '<', "<!DOCTYPE "... is not valid JSON {
+  error: {
+    message: [32m`Unexpected token '<', "<!DOCTYPE "... is not valid JSON`[39m,
+    name: [32m'SyntaxError'[39m,
+    stack: [32m`SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON`[39m
+  },
+  message: [32m`Unexpected token '<', "<!DOCTYPE "... is not valid JSON`[39m,
+  url: [32m'/api/auth/session'[39m
+} 
+    at new Promise (<anonymous>) (<anonymous>)
+[browser] A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html lang="en" className="scroll-smooth">
+                          <head>
+                          <body
+                            className="bg-dark text-white antialiased"
+                            style={{fontFamily:"'Inter', s..."}}
+-                           cz-shortcut-listen="true"
+                          >
+                  ...
+ 
+[browser] [next-auth][error][CLIENT_FETCH_ERROR] 
+https://next-auth.js.org/errors#client_fetch_error Unexpected token '<', "<!DOCTYPE "... is not valid JSON {
+  error: {
+    message: [32m`Unexpected token '<', "<!DOCTYPE "... is not valid JSON`[39m,
+    name: [32m'SyntaxError'[39m,
+    stack: [32m`SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON`[39m
+  },
+  message: [32m`Unexpected token '<', "<!DOCTYPE "... is not valid JSON`[39m,
+  url: [32m'/api/auth/session'[39m
+} 
+    at new Promise (<anonymous>) (<anonymous>)
+[browser] [next-auth][error][CLIENT_FETCH_ERROR] 
+https://next-auth.js.org/errors#client_fetch_error Unexpected token '<', "<!DOCTYPE "... is not valid JSON {
+  error: {
+    message: [32m`Unexpected token '<', "<!DOCTYPE "... is not valid JSON`[39m,
+    name: [32m'SyntaxError'[39m,
+    stack: [32m`SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON`[39m
+  },
+  message: [32m`Unexpected token '<', "<!DOCTYPE "... is not valid JSON`[39m,
+  url: [32m'/api/auth/session'[39m
+} 
+    at new Promise (<anonymous>) (<anonymous>)
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[browser] A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html lang="en" className="scroll-smooth">
+                          <head>
+                          <body
+                            className="bg-dark text-white antialiased"
+                            style={{fontFamily:"'Inter', s..."}}
+-                           cz-shortcut-listen="true"
+                          >
+                  ...
+ 
+[browser] [next-auth][error][CLIENT_FETCH_ERROR] 
+https://next-auth.js.org/errors#client_fetch_error Unexpected token '<', "<!DOCTYPE "... is not valid JSON {
+  error: {
+    message: [32m`Unexpected token '<', "<!DOCTYPE "... is not valid JSON`[39m,
+    name: [32m'SyntaxError'[39m,
+    stack: [32m`SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON`[39m
+  },
+  message: [32m`Unexpected token '<', "<!DOCTYPE "... is not valid JSON`[39m,
+  url: [32m'/api/auth/session'[39m
+} 
+    at new Promise (<anonymous>) (<anonymous>)
+[browser] [next-auth][error][CLIENT_FETCH_ERROR] 
+https://next-auth.js.org/errors#client_fetch_error Unexpected token '<', "<!DOCTYPE "... is not valid JSON {
+  error: {
+    message: [32m`Unexpected token '<', "<!DOCTYPE "... is not valid JSON`[39m,
+    name: [32m'SyntaxError'[39m,
+    stack: [32m`SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON`[39m
+  },
+  message: [32m`Unexpected token '<', "<!DOCTYPE "... is not valid JSON`[39m,
+  url: [32m'/api/auth/session'[39m
+} 
+    at new Promise (<anonymous>) (<anonymous>)
