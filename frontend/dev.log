@@ -37,3 +37,7 @@
 - Network:       http://192.168.220.36:3000
 ✓ Ready in 9.1s
 
+ GET /admin 200 in 3.0s (next.js: 1542ms, application-code: 1427ms)
+✓ Finished filesystem cache database compaction in 18.2s
+ GET /api/auth/session 404 in 215ms (next.js: 103ms, application-code: 113ms)
+ POST /api/auth/_log 404 in 104ms (next.js: 17ms, application-code: 87ms)

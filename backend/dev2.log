@@ -44,3 +44,14 @@ Server running on port 4000
 ◇ injected env (7) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
 Database connected Tapclone
 Server running on port 4000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `tsx src/server.ts`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `tsx src/server.ts`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `tsx src/server.ts`[39m
+◇ injected env (7) from .env // tip: ⌘ suppress logs { quiet: true }
+Database connected Tapclone
+Server running on port 4000
