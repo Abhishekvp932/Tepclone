@@ -193,3 +193,6 @@ https://next-auth.js.org/errors#client_fetch_error Unexpected token '<', "<!DOCT
   url: [32m'/api/auth/session'[39m
 } 
     at new Promise (<anonymous>) (<anonymous>)
+⚠ Found a change in next.config.ts. Restarting the server to apply the changes...
+⚠ Slow filesystem detected. The benchmark took 870ms. If C:\Users\avp75\OneDrive\Desktop\Tapclone\Tapclone\frontend\.next/dev is a network drive, consider moving it to a local folder.
+See more: https://nextjs.org/docs/app/guides/local-development

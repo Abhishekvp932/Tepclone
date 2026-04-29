@@ -32,3 +32,8 @@
  GET /admin/login 200 in 442ms (next.js: 164ms, application-code: 278ms)
  GET /admin 200 in 208ms (next.js: 65ms, application-code: 143ms)
  GET / 200 in 528ms (next.js: 158ms, application-code: 369ms)
+▲ Next.js 16.2.4 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.220.36:3000
+✓ Ready in 9.1s
+
